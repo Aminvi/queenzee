@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 May 2023 17:52:12 at http://velikorodnov.com/html/wowedding/home_2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" http://velikorodnov.com/html/wowedding/home_2.html -O1 "C:\Users\HATEL\Desktop\wedding" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:00:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 12056 got 10919): velikorodnov.com/html/wowedding/rtl/images/brand4.png
+18:00:52	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://platform.twitter.com/widgets.js (from velikorodnov.com/html/wowedding/home_5.html)
+18:00:52	Warning: 	Retry after error -4 (Incorrect length (10919 Bytes, 12056 expected)) at link velikorodnov.com/html/wowedding/rtl/images/brand4.png (from velikorodnov.com/html/wowedding/rtl/index.html)
+18:00:52	Warning: 	Retry after error -4 (No data (connection closed)) at link velikorodnov.com/html/wowedding/rtl/images/brand6.png (from velikorodnov.com/html/wowedding/rtl/index.html)
+18:01:18	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://platform.twitter.com/widgets.js (from velikorodnov.com/html/wowedding/home_5.html)
+18:01:18	Warning: 	Found for velikorodnov.com/html/wowedding/rtl/images/brand4.png
+18:01:18	Warning: 	File has moved from velikorodnov.com/html/wowedding/rtl/images/brand4.png to http://engage1.mtn.ng/
+18:01:18	Warning: 	Found for velikorodnov.com/html/wowedding/rtl/images/brand6.png
+18:01:18	Warning: 	File has moved from velikorodnov.com/html/wowedding/rtl/images/brand6.png to http://engage1.mtn.ng/
+18:01:41	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://platform.twitter.com/widgets.js (from velikorodnov.com/html/wowedding/home_5.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 29 seconds : 157 links scanned, 149 files written (11299021 bytes overall) [7602140 bytes received at 13360 bytes/sec], 5768417 bytes transferred using HTTP compression in 90 files, ratio 34%, 1.2 requests per connection
+(1 errors, 9 warnings, 0 messages)
